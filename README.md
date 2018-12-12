@@ -1,5 +1,5 @@
 # musicApi
-抓取方法来源于\n
+抓取方法来源于<br>
 其中酷狗与QQ来源于网络上的Meting.php
 网易来源于community.apicloud.com/bbs/thread-47469-1-5.html
 访问形式为GET
